@@ -87,9 +87,6 @@ export default function Home() {
             <h2>
               Templates <span>-&gt;</span>
             </h2>
-            <p>
-              Discover and deploy boilerplate example Next.js&nbsp;projects.
-            </p>
           </a>
 
           <a
